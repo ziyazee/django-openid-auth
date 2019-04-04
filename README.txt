@@ -6,7 +6,7 @@ a fixed OpenID server endpoint, which can be useful when implementing
 single signon systems.
 
 
-== Basic Installation ==
+== Basic Installations ==
 
  1. Install the Jan Rain Python OpenID library.  It can be found at:
 
